@@ -11,7 +11,7 @@ text-align: center;
 
 .secao1{
 background-color: rgb(42, 165, 159);
-padding:300px;
+padding:200px;
 
 
 
@@ -20,6 +20,7 @@ padding:300px;
 .secao2{
     background-color: rgb(42, 136, 165);
     padding:50px;
+    text-align: center;
     
 
 }
@@ -29,6 +30,8 @@ padding:300px;
 width: 200px;
 height: 200px;
 background-color: darkblue;
+background-image:url(https://img.wattpad.com/cover/112584842-256-k455933.jpg);
+background-repeat: no-repeat;
 
 }
 
@@ -37,12 +40,16 @@ background-color: darkblue;
     width: 200px;
 height: 200px;
 background-color: rgb(0, 139, 30);
+background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTkIeOCfn6TsQKe1CKp7OgzKl4ov3u_l1sWA&usqp=CAU);
+background-size: auto;
 }
 
 .div3{
     width: 200px;
     height: 200px;
     background-color: rgb(139, 0, 23);
+    background-image: url(https://st3.depositphotos.com/34793116/37181/i/450/depositphotos_371813486-stock-photo-abstract-black-white-textured-background.jpg);
+    background-size: auto;
 
 }
 
@@ -59,4 +66,15 @@ background-color: rgb(0, 139, 30);
     padding: 50px;
 
     background-color: rgb(36, 210, 30);
+    background-image: url(https://static.tumblr.com/qdabkmw/qRqmbpn2t/bd.png
+    );
+    background-size: auto;
+
+
+}
+
+h1{
+
+color: antiquewhite;
+
 }
